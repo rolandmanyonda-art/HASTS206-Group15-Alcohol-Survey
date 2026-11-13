@@ -1,0 +1,4 @@
+Domain,Valid_Adults,Ind1_Drinkers_Count,Ind1_Denom,Ind1_Prevalence_Pct,Ind2_Binge_Count,Ind2_Binge_Denom,Ind2_Binge_Pct,Ind3_Beer_Count,Ind3_Beer_Denom,Ind3_Beer_Pct
+Overall,29,20,29,68.97,14,17,82.35,8,19,42.11
+Male,15,13,15,86.67,10,13,76.92,6,13,46.15
+Female,14,7,14,50.0,4,4,100.0,2,6,33.33

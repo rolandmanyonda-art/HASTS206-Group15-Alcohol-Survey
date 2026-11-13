@@ -1,0 +1,42 @@
+Timestamp,  Do you agree to take part in this survey? Your answers are anonymous and you may stop at any time.  ,"  Case ID 
+Simulated Household Response (Male):(S-M-001 to S-M-007) 
+Simulated Household Response (Female):(S-F-001 to S-F-008) 
+Consenting Adult Volunteer (Male):(C-M-001 to C-M-008)
+Consenting Adult Volunteer (Female):(C-F-001 to C-F-007)
+  Technical Test Cases:(T-001 to T-005)  ",  Source of this record  ,  What is your sex?  ,Age in years?,"  In the last 30 days, did you drink any alcohol?  ",  Which kinds of alcohol did you drink in the last 30 days? Tick all that apply.  ,"  In the last 30 days, on how many days did you have 6 or more standard drinks on one occasion?  ",Do you drink alcohol?,Are you above 18 years of age?
+12/11/2026 09:44:03,YES,C-F-001,Consenting Adult Volunteer,Female,23,Yes,Commercial Beer,20-30,YES,Yes
+12/11/2026 09:50:11,YES,C-F-002,Consenting Adult Volunteer,Female,22,Yes,Home Brewed or Traditional drinks,10-20,YES,Yes
+12/11/2026 09:52:41,YES,C-F-003,Consenting Adult Volunteer,Female,21,Yes,Spirits,5-10,YES,Yes
+12/11/2026 09:55:03,YES,C-F-004,Consenting Adult Volunteer,Female,19,Yes,OTHERS,Prefer not to say,YES,Yes
+12/11/2026 09:57:14,YES,C-F-005,Consenting Adult Volunteer,Female,18,Yes,Don't know,Don't know,YES,Yes
+12/11/2026 09:59:49,YES,C-F-006,Consenting Adult Volunteer,Female,21,Yes,OTHERS,Don't know,YES,Yes
+12/11/2026 10:01:03,NO,C-F-007,Consenting Adult Volunteer,Female,19,No,Don't know,Don't know,NO,No
+12/11/2026 09:51:17,YES,C-M-001,Consenting Adult Volunteer,Male,21,Yes,"Home Brewed or Traditional drinks, Commercial Beer",5-10,YES,Yes
+12/11/2026 09:53:38,YES,C-M-002,Consenting Adult Volunteer,Male,24,Yes,Spirits,10-20,YES,Yes
+12/11/2026 09:56:18,YES,C-M-003,Consenting Adult Volunteer,Male,27,Yes,Home Brewed or Traditional drinks,20-30,YES,Yes
+12/11/2026 09:57:19,YES,C-M-004,Consenting Adult Volunteer,Male,39,Yes,Spirits,0-5,YES,Yes
+12/11/2026 09:57:55,YES,C-M-005,Consenting Adult Volunteer,Male,37,Yes,Commercial Beer,10-20,YES,Yes
+12/11/2026 09:58:50,YES,C-M-006,Consenting Adult Volunteer,Male,35,Yes,WINE,5-10,YES,Yes
+12/11/2026 10:00:01,YES,C-M-006,Consenting Adult Volunteer,Male,40,Yes,Home Brewed or Traditional drinks,20-30,YES,Yes
+12/11/2026 10:00:56,YES,C-M-007,Consenting Adult Volunteer,Male,19,Yes,Spirits,5-10,YES,Yes
+12/11/2026 10:01:49,YES,C-M-008,Consenting Adult Volunteer,Male,18,Yes,Spirits,5-10,YES,Yes
+12/11/2026 10:03:37,YES,S-F-001,Simulated Household Response,Female,21,No,OTHERS,Don't know,NO,Yes
+12/11/2026 10:07:08,YES,S-F-002,Simulated Household Response,Female,25,No,OTHERS,Prefer not to say,NO,Yes
+12/11/2026 10:09:00,YES,S-F-003,Simulated Household Response,Female,23,No,OTHERS,Prefer not to say,NO,
+12/11/2026 10:12:09,YES,S-F-004,Simulated Household Response,Female,19,No,OTHERS,Don't know,NO,Yes
+12/11/2026 10:09:04,YES,S-F-005,Simulated Household Response,Female,21,No,OTHERS,0-5,NO,Yes
+12/11/2026 10:11:11,YES,S-F-006,Simulated Household Response,Female,25,No,Don't know,Prefer not to say,NO,Yes
+12/11/2026 10:12:21,YES,S-F-007,Simulated Household Response,Female,33,No,OTHERS,0-5,NO,Yes
+11/11/2026 13:52:05,YES,S-F-008,Simulated response,Male,27,Yes,Commercial Beer,5-10,,
+12/11/2026 09:54:53,YES,S-M-001,Simulated Household Response,Male,22,Yes,"Commercial Beer, WINE",5-10,YES,Yes
+12/11/2026 09:56:28,YES,S-M-002,Simulated Household Response,Male,27,Yes,"WINE, Spirits",0-5,YES,Yes
+12/11/2026 09:59:13,YES,S-M-003,Simulated Household Response,Male,19,No,Don't know,Don't know,NO,Yes
+12/11/2026 10:03:30,YES,S-M-004,Simulated Household Response,Male,28,No,Don't know,Don't know,NO,Yes
+12/11/2026 10:06:58,YES,S-M-005,Simulated Household Response,Male,19,Yes,"Commercial Beer, WINE, Spirits",5-10,YES,Yes
+12/11/2026 10:10:01,YES,S-M-006,Simulated Household Response,Male,35,Yes,"Home Brewed or Traditional drinks, Commercial Beer, WINE",0-5,YES,Yes
+12/11/2026 10:12:13,YES,S-M-007,Simulated Household Response,Male,54,Yes,"Commercial Beer, WINE",5-10,YES,Yes
+12/11/2026 09:41:25,YES,T-001,Technical Test Case,Male,22,Yes,Commercial Beer,5-10,YES,Yes
+12/11/2026 09:43:49,YES,T-002,Technical Test Case,Male,19,Yes,Spirits,20-30,YES,Yes
+12/11/2026 09:45:06,YES,T-003,Technical Test Case,Male,21,Yes,WINE,10-20,YES,Yes
+12/11/2026 09:46:38,YES,T-004,Technical Test Case,Male,20,Yes,Commercial Beer,10-20,YES,Yes
+12/11/2026 09:47:38,YES,T-005,Technical Test Case,Male,19,Yes,Spirits,20-30,YES,Yes
