@@ -1,0 +1,15 @@
+plot_df = benchmark_df[benchmark_df["Domain"].isin(list(("Male", "Female")))]
+x = np.arange(len(plot_df["Domain"]))
+width = 0.35
+
+fig, ax = plt.subplots(figsize=(7, 4.5))
+ax.bar(x - width/2, plot_df["Ind1_Prevalence_Pct"], width, label="Past 30-Day Alcohol Use (%)", color="#2b5c8f")
+ax.bar(x + width/2, plot_df["Ind2_Binge_Pct"], width, label="Frequent Binge Drinking Among Drinkers (%)", color="#d95f02")
+ax.set_ylabel("Percentage (%)")
+ax.set_title("Pilot Survey: Alcohol Use & Binge Drinking by Sex")
+ax.set_xticks(x)
+ax.set_xticklabels(plot_df["Domain"])
+ax.set_ylim(0, 100)
+ax.legend()
+plt.tight_layout()
+plt.show()
